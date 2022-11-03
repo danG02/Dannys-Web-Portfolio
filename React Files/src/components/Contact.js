@@ -71,7 +71,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            If you have any questions about anything, or would like to work with me on anything,
+            If you have any questions, would like to work with me,
             or have an idea that you want to talk about, go ahead and let me know!
           </p>
           <div className="relative mb-4">

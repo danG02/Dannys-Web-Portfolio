@@ -1,36 +1,20 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Rock-Paper-Scissors",
+    subtitle: "HTML,CSS,JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A simple rock-paper-scissors game where the user can choose their character and go against the computer. The program keeps track of score. All designs were done by me.",
+    image: "./RPS.gif",
+    link: "https://dang02.github.io/rock-paper-scissors/?",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Basic Tetris",
+    subtitle: "HTML,CSS,JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+      "A very basic form of tetris, a few bugs to clean up, but includes a start/pause button and move with the arrow keys on the keyboard.",
+    image: "./BT.gif",
+    link: "https://dang02.github.io/Tetris-Game/?",
+  }
 ];
 
 export const testimonials = [
@@ -51,10 +35,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
-  "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Web Development - HTML/CSS/JS",
+  "Material UI, Bootstrap",
+  "Data Science - R, Python, PowerBI",
+  "Wordpress",
+  "C/C++",
+  "Backend - C#/Java"
 ];

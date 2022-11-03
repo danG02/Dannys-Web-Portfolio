@@ -1,0 +1,15 @@
+Errors Encountered Throughout Project
+
+- PROBLEM -
+Two Github Accounts Commiting to same Repo
+Solution: -> https://stackoverflow.com/questions/38556096/github-permission-denied-publickey-fatal-could-not-read-from-remote-reposit
+"git remote add origin git@github-doe-company:username/repo.git"
+*Note*
+You can ammend last commit, just google it.
+*Side Note*
+You will see a screen that looks like vim, below shows how to exit
+-> https://stackoverflow.com/questions/28176813/how-to-confirm-changes-after-git-commit-amend-in-terminal
+
+- PROBLEM -
+Running the web app
+Solution: yarn install -> yarn start
